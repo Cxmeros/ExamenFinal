@@ -7,7 +7,7 @@ La tecnología NFC existe desde hace años, pero es en los últimos tiempos cuan
 
 Las siglas NFC corresponden a Near Field Communication, una tecnología de comunicación de corto alcance, como podría ser el bluetooth.
 
-![](https://github.com/Cxmeros/ExamenFinal/blob/main/450_1000-63.jpg)
+![](https://github.com/Cxmeros/ExamenFinal/blob/main/img/450_1000-63.jpg)
 
 Ofrece una tasa de transferencia de datos muy escasa (unos 424 kbit/s) y está pensada para actuar en labores de identificación de manera rápida y segura.
 
