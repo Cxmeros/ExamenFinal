@@ -56,3 +56,16 @@ Además del pago por móvil, la tecnología NFC tiene otros dos usos:
 **Identificación:** El ejemplo más claro es el de los abonos de autobús. Gracias a la tecnología NFC, se podrá acercar el teléfono móvil al lector y que se descuente el precio del billete sin necesidad de llevar ningún otro tipo de documentación.
 
 **Recogida/intercambio de datos:** En este punto, se combina la tecnología NFC con las etiquetas RFID. Gracias a esta combinación, se puede establecer dónde se encuentra una persona o recibir información de un evento o una tienda.
+
+# Diagrama detallado de la relación de cada módulo con la propuesta inicial
+![](https://github.com/Cxmeros/ExamenFinal/releases/download/v1.0/diagrama.png)
+
+# Prototipo de interfaz de usuario
+
+**Menú principal**
+![](https://github.com/Cxmeros/ExamenFinal/releases/download/v1.0/Vista.jpeg)
+
+**Escaneo de ticket**
+![](https://github.com/Cxmeros/ExamenFinal/releases/download/v1.0/Vista2.jpeg)
+
+
