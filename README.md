@@ -1,5 +1,33 @@
 # ExamenFinal
-Billetera electrónica para una feria
+# Billetera electrónica para una feria
+
+# Como es de su conocimiento al ir a juegos de feria se debe comprar en cada juego el ingreso o en otras se compra un paquete de tickets y se puede accedes a cierto numero de juegos. Pero se tiene un parque que ya no quiere utilizar efectivo, en su lugar quiere utilizar una aplicación que funcione como una billetera electrónica.
+
+# Grupo de trabajo y roles
+
+El grupo de trabajo consta de 5 personas las cuales se mencionan a continuación así como sus roles.
+
+Jonathan Cameros - Jefe de proyecto
+José Díaz - Desarrollador
+Diego Oliva - Líder de documentación
+José Chacón - Desarrollador
+Brandon Pineda - Diseñador gráfico y UX
+
+# Requerimientos del sistema
+ 
+- 	Pagar el uso de los juegos con acercar el teléfono a la máquina, esto ocasiona que se descuente cada juego hasta terminar su saldo en caso se compró un paquete con limite o si es el caso sin restricción permitir el uso de los juegos de forma indefinida de veces.
+- 	El usuario por medio de la aplicación deberá comprar un paquete, los paquetes pueden ser:
+
+      -10 juegos
+      -20 juegos
+      -Sin restricción (sin límite de juegos)
+      
+- 	Si se quiere comprar otro paquete se puede hacer.
+- 	La compra puede hacerse solo de forma electrónica o tarjeta de crédito/debito.
+- 	Se debe llevar el control de los ingresos y cortes de caja diarios
+- 	Llevar una estadística de los juegos utilizados y cantidad de juegos utilizados por los paquetes sin restricción, esta última estadística es 
+        vital para ver la rentabilidad de este tipo de compra.
+
 
 **Pagos por NFC**
 
