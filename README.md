@@ -3,6 +3,15 @@
 
 **Como es de su conocimiento al ir a juegos de feria se debe comprar en cada juego el ingreso o en otras se compra un paquete de tickets y se puede accedes a cierto numero de juegos. Pero se tiene un parque que ya no quiere utilizar efectivo, en su lugar quiere utilizar una aplicación que funcione como una billetera electrónica.**
 
+**WIKI**
+
+[Ir a la wiki](https://github.com/Cxmeros/ExamenFinal/wiki)
+
+**Releases**
+
+V1.0
+[Ir a la release](https://github.com/Cxmeros/ExamenFinal/releases/tag/v1.0)
+
 **Grupo de trabajo y roles**
 
 El grupo de trabajo consta de 5 personas las cuales se mencionan a continuación así como sus roles.
