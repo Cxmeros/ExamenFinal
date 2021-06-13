@@ -7,11 +7,11 @@
 
 El grupo de trabajo consta de 5 personas las cuales se mencionan a continuación así como sus roles.
 
-Jonathan Cameros - Jefe de proyecto
-José Díaz - Desarrollador
-Diego Oliva - Líder de documentación
-José Chacón - Desarrollador
-Brandon Pineda - Diseñador gráfico y UX
+- Jonathan Cameros - Jefe de proyecto
+- José Díaz - Desarrollador
+- Diego Oliva - Líder de documentación
+- José Chacón - Desarrollador
+- Brandon Pineda - Diseñador gráfico y UX
 
 **Requerimientos del sistema**
  
