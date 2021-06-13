@@ -63,9 +63,12 @@ Además del pago por móvil, la tecnología NFC tiene otros dos usos:
 # Prototipo de interfaz de usuario
 
 **Menú principal**
+
 ![](https://github.com/Cxmeros/ExamenFinal/releases/download/v1.0/Vista.jpeg)
 
+
 **Escaneo de ticket**
+
 ![](https://github.com/Cxmeros/ExamenFinal/releases/download/v1.0/Vista2.jpeg)
 
 
