@@ -36,6 +36,24 @@ El grupo de trabajo consta de 5 personas las cuales se mencionan a continuación
 - 	Se debe llevar el control de los ingresos y cortes de caja diarios
 - 	Llevar una estadística de los juegos utilizados y cantidad de juegos utilizados por los paquetes sin restricción, esta última estadística es 
         vital para ver la rentabilidad de este tipo de compra.
+        
+|  Fecha 	    | Actividad |
+|---	        |---	     |
+|  10 de junio| [Incremento 1 Comunicación](https://github.com/Cxmeros/ExamenFinal/issues/2)	|
+|  11 de junio| [Incremento 1 Planeación](https://github.com/Cxmeros/ExamenFinal/issues/3)	|
+|  12 de junio| [Incremento 1 Modelado](https://github.com/Cxmeros/ExamenFinal/issues/4)	|
+|  13 de junio| [Incremento 1 Construcción](https://github.com/Cxmeros/ExamenFinal/issues/5)	|
+|  13 de junio| [Incremento 1 Despliegue](https://github.com/Cxmeros/ExamenFinal/issues/6)	|
+|  14 de junio| [Incremento 2 Comunicación](https://github.com/Cxmeros/ExamenFinal/issues/7)	|
+|  15 - 17 de junio| [Incremento 2 Planeación](https://github.com/Cxmeros/ExamenFinal/issues/8)	|
+|  18 - 24 de junio| [Incremento 2 Modelado](https://github.com/Cxmeros/ExamenFinal/issues/9)	|
+|  25 de junio - 24 de julio| [Incremento 2 Construcción](https://github.com/Cxmeros/ExamenFinal/issues/10)	|
+|  25 - 26 de julio | [Incremento 2 Despliegue](https://github.com/Cxmeros/ExamenFinal/issues/11)	|
+|  27 de julio| [Incremento 3 Comunicación](https://github.com/Cxmeros/ExamenFinal/issues/12)	|
+|  28 de julio - 4 de agosto| [Incremento 3 Modelado y planeación](https://github.com/Cxmeros/ExamenFinal/issues/13)	|
+|  5 de agosto - 1 de septiembre| [Incremento 3 Construcción](https://github.com/Cxmeros/ExamenFinal/issues/15)	|
+|  2 - 3 de septiembre | [Incremento 3 Despliegue](https://github.com/Cxmeros/ExamenFinal/issues/14)	|
+
 
 
 **Pagos por NFC**
